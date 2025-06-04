@@ -1,6 +1,6 @@
 local whitelist = {
 "qwopmnxzytg666",
-"Name2",
+"123fa98",
 "Name3"
 }
 return whitelist
