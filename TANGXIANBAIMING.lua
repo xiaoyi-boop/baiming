@@ -1,5 +1,5 @@
 local whitelist = {
-"Name",
+"qwopmnxzytg666",
 "Name2",
 "Name3"
 }
