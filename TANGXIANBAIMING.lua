@@ -2,7 +2,7 @@ local whitelist = {
 "jsjssb886",
 "123fa98",
 "ahkahbia",
-"qwopmnxzytg66",
-"qwopmnxzytg6"
+"ChinaAtrain66",
+"qwopmnxzytg666"
 }
 return whitelist
