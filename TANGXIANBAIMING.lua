@@ -6,6 +6,7 @@ local whitelist = {
 "qwopmnxzytg666",
 "HANXU_12",
 "bbbcccxxxzzz888",
+"r4dhzm78",
 "111"
 }
 return whitelist
