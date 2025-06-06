@@ -10,6 +10,7 @@ local whitelist = {
 "qwertyuiop665624",
 "MameAAAW",
 "wwwuuummmiiinnnggg",
+"owkxjenwnd",
 "111"
 }
 return whitelist
