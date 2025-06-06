@@ -8,6 +8,8 @@ local whitelist = {
 "bbbcccxxxzzz888",
 "r4dhzm78",
 "qwertyuiop665624",
+"MameAAAW",
+"wwwuuummmiiinnnggg",
 "111"
 }
 return whitelist
