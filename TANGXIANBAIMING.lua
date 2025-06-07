@@ -11,6 +11,7 @@ local whitelist = {
 "MameAAAW",
 "wwwuuummmiiinnnggg",
 "lzinwnwjxb",
+"s580s480",
 "111"
 }
 return whitelist
