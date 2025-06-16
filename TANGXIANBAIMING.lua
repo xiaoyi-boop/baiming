@@ -19,6 +19,7 @@ local whitelist = {
 "qweasz17096",
 "mmm9191mmm",
 "6868Liu688",
+"J ia12345678H",
 "111"
 }
 return whitelist
